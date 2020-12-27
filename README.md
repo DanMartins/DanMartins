@@ -1,4 +1,5 @@
-## My name is [Danilo Oliveira Martins][website]. :blush:
+## Hi. 
+### My name is [Danilo Oliveira Martins][website].
 
 I am a science researcher currently engaged on software framework development for control systems on [PhD program at University of São Paulo](http://ppgee.poli.usp.br). Part of my work is open source and available here on [GitHub](https://github.com/DanMartins).
 
