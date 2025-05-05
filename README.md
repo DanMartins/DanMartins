@@ -1,10 +1,10 @@
 ### My name is [Danilo Oliveira Martins][website].
 
-I am a science researcher currently engaged on software framework development for control systems on [PhD program at University of São Paulo](http://ppgee.poli.usp.br). Part of my work is open source and available here on [GitHub](https://github.com/DanMartins).
+I’m a researcher at the University of São Paulo, currently pursuing a [PhD in Systems Engineering](http://ppgee.poli.usp.br), focusing on software frameworks for dynamic control systems. My work brings together systems engineering, software architecture, project development, and applied machine learning. Some of my projects are open source and available here on [GitHub](https://github.com/DanMartins).
 
-I keep a channel on [YouTube][youtube] where you can find videos about IoTControl platform, there are more to come with Data Science techniques being applied on the machine learning framework features and others integration.
+In the [YouTube][youtube] channel I share some videos about the IoTControl platform. Upcoming content will include hands-on demonstrations of data science techniques, machine learning integrations, and practical applications.​
 
-You may want to reach me on [LinkedIn][linkedin] or [ResearchGate](https://www.researchgate.net/profile/Danilo_Oliveira_Martins), part of my work and publications are available on [ORCID][orcid] and [Lattes](http://lattes.cnpq.br/4247658321049641).
+Connect with me on [LinkedIn][linkedin] or [ResearchGate](https://www.researchgate.net/profile/Danilo_Oliveira_Martins) to stay updated on my latest work and collaborations. You can also find my publications and project details on [ORCID][orcid] and [Lattes](http://lattes.cnpq.br/4247658321049641).​
 
 #### Languages and Tools:
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 [website]: https://domartins.wixsite.com/data
 [youtube]: https://www.youtube.com/channel/UCRJF9ALztqDIZ913XhoeNug
-[linkedin]: https://br.linkedin.com/in/danilo-oliveira-martins-16587baa
+[linkedin]: https://www.linkedin.com/in/danilo-oliveira-martins-16587baa
 [lattes]: http://lattes.cnpq.br/4247658321049641
 [rgate]: (https://www.researchgate.net/profile/Danilo_Oliveira_Martins)
 [uspsite]: http://ppgee.poli.usp.br/
