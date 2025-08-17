@@ -1,4 +1,4 @@
-### My name is [Dan][website].
+### My name is [Dan][website]
 
 I’m a researcher at the University of São Paulo, currently pursuing a [PhD in Systems Engineering](http://ppgee.poli.usp.br), focusing on software frameworks for dynamic control systems. My work brings together systems engineering, software architecture, project development, and applied machine learning. Some of my projects are open source and available here on [GitHub](https://github.com/DanMartins).
 
