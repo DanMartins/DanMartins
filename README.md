@@ -4,7 +4,7 @@ I’m a researcher at the University of São Paulo, currently pursuing a [PhD in
 
 In the [YouTube][youtube] channel I share some videos about the IoTControl platform. Upcoming content will include hands-on demonstrations of data science techniques, machine learning integrations, and practical applications.​
 
-Connect with me on [LinkedIn][linkedin] or [ResearchGate](https://www.researchgate.net/profile/Danilo_Oliveira_Martins) to stay updated on my latest work and collaborations. You can also find my publications and project details on [ORCID][orcid] and [Lattes](http://lattes.cnpq.br/4247658321049641).​
+Connect with me on [LinkedIn][linkedin], also find the publications details on [ORCID][orcid] and [Lattes](http://lattes.cnpq.br/4247658321049641).​
 
 #### Languages and Tools:
 
