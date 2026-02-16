@@ -1,10 +1,8 @@
 ### My name is [Dan][website]
 
-I’m a researcher at the University of São Paulo, currently pursuing a [PhD in Systems Engineering](http://ppgee.poli.usp.br), focusing on software frameworks for dynamic control systems. My work brings together systems engineering, software architecture, project development, and applied machine learning. Some of my projects are open source and available here on [GitHub](https://github.com/DanMartins).
+My work is on Systems Engineering, Digital Platforms, Software Architecture, AI, Data Analysis, Machine Learning, CNN, Deep Learning Models, Product and Project Management. Some of my projects are open source and available here on [GitHub](https://github.com/DanMartins).
 
-In the [YouTube][youtube] channel I share some videos about the IoTControl platform. Upcoming content will include hands-on demonstrations of data science techniques, machine learning integrations, and practical applications.​
-
-Connect with me on [LinkedIn][linkedin], also find the publications details on [ORCID][orcid] and [Lattes](http://lattes.cnpq.br/4247658321049641).​
+In the [YouTube][youtube] channel I share some videos about the Remote Laboratory platform. Connect with me on [LinkedIn][linkedin], also find my publications on [ORCID][orcid] and [Lattes](http://lattes.cnpq.br/4247658321049641).​
 
 #### Languages and Tools:
 
