@@ -1,4 +1,4 @@
-### My name is [Dan][website]
+### [Dan][website]
 
 My work is on Systems Engineering, Digital Platforms, Software Architecture, AI, Data Analysis, Machine Learning, CNN, Deep Learning Models, Product and Project Management. Some of my projects are open source and available here on [GitHub](https://github.com/DanMartins).
 
