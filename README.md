@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -->
 [website]: https://domartins.wixsite.com/data
 [youtube]: https://www.youtube.com/channel/UCRJF9ALztqDIZ913XhoeNug
-[linkedin]: https://www.linkedin.com/in/danilo-oliveira-martins-16587baa
+[linkedin]: https://www.linkedin.com/in/danilo-martins-phd
 [lattes]: http://lattes.cnpq.br/4247658321049641
 [rgate]: (https://www.researchgate.net/profile/Danilo_Oliveira_Martins)
 [uspsite]: http://ppgee.poli.usp.br/
